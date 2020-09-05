@@ -1,0 +1,10 @@
+@import "./sass/header.scss";
+@import "./sass/sidebar.scss";
+@import "./sass/RecommendedVideos.scss";
+@import "./sass/sidebarRow.scss";
+@import "./sass/videoCard.scss";
+@import "./sass/searchPage.scss";
+
+.app_page {
+    display: flex;
+}
